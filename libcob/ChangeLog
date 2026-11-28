@@ -131,7 +131,7 @@
 	* call.c (pre_load_once): elements in COB_PRE_LOAD are always loaded with
 	  a global scope request, independent of COB_LOAD_GLOBAL setting
 	* common.c: minimal refactor
-	
+
 2026-09-08  David Declerck <david.declerck@ocamlpro.com>
 
 	Note: partial merge of 4674 (cob_file_operation enum)

@@ -22,7 +22,7 @@
    Modified for use in GnuCOBOL by Roger While
 */
 
-#include "libcob/common.h"
+
 #ifndef COB_GETOPT_H
 #define COB_GETOPT_H 1
 
